@@ -1,5 +1,5 @@
 # UniversityAPI
-School Full Stack API
+School Full Stack Application
 
 
 
